@@ -17,8 +17,10 @@ A simple and modern web app to track household utility expenses and visualize sp
 3. View stats and charts instantly
 
 ## 🌐 Live Demo
+https://coderbiozed.github.io/family-utility-tracker/
 
-(Add your demo link here)
+
+👉 “💰 Pro version available on Gumroad”
 
 ## 💡 Perfect For
 
